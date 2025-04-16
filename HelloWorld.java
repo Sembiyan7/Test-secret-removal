@@ -2,12 +2,12 @@ public class HelloWorld {
 
     // Method to print a greeting message
     public void sayHello() {
-        System.out.println("Hello, Shiva!");
-        System.out.println("Hello, Jesus!");
+        System.out.println("Hello, messi!");
+        System.out.println("Hello, Ronaldo!");
     }
 
     public void saySecret() {
-        String secret = "dummy==";
+        String secret = "";
         System.out.println("This is a secret message: " + secret);
     }
 }

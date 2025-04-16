@@ -7,7 +7,7 @@ public class HelloWorld {
     }
 
     public void saySecret() {
-        String secret = "football==";
+        String secret = "";
         System.out.println("This is a secret message: " + secret);
     }
 }

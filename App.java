@@ -4,7 +4,7 @@ public class App {
         // Create a new instance of the HelloWorld class
         HelloWorld helloWorld = new HelloWorld();
 
-        // Call the sayHello method to print the greeting
+        helloWorld.sayHello();
         helloWorld.saySecret();
     }
 }

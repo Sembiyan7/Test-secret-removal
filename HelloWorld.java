@@ -2,8 +2,8 @@ public class HelloWorld {
 
     // Method to print a greeting message
     public void sayHello() {
-        System.out.println("Hello, ozil!");
-        System.out.println("Hello, Ozil!");
+        System.out.println("Hello, tata!");
+        System.out.println("Hello, tata!");
     }
 
     public void saySecret() {
